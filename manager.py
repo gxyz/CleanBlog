@@ -35,7 +35,5 @@ def initdb():
     db.session.add(default)
     db.session.commit()
 
-
-
 if __name__ == '__main__':
     manager.run()

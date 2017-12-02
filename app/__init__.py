@@ -9,7 +9,7 @@ from config import config
 
 app = Flask(__name__)
 
-db = SQLAlchemy()
+db = SQLAlchemy(use_native_unicode=True)
 login_manager = LoginManager()
 # theme = Themes()
 
