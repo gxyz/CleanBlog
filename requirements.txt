@@ -8,7 +8,7 @@ Flask-Script==2.0.5
 Flask-SQLAlchemy==2.3.2
 Flask-Themes2==0.1.4
 Flask-WTF==0.12
-gunicorn==19.4.5
+gunicorn==19.5.0
 ipaddress==1.0.16
 itsdangerous==0.24
 Jinja2==2.10
